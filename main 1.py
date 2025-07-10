@@ -9,5 +9,5 @@ Semua sintaksis dasar pemrograman terdiri dari:
 print('Ibu berkata,"pergi ke toko" ')
 print('Budi menjawab, "Apa yang seharusnya saya lakukan di toko?"')
 print('Ibu menjawab, "Beli satu botol susu, dan jika ada telor beli 6"')
-print('Maka Budi berangkat ke toko')
+print('Maka Budi berangkat ke tok')
 print('Maka mulai berbelanja')
